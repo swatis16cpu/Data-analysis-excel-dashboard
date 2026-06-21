@@ -1,2 +1,2 @@
-# Data-analysis-excel-dashboard
+# SalesData-analysis-excel-dashboard(Intractive Dashboard creation using MS Excel)
 I developed a comprehensive project in excel, creating multiple dashboards and table to analyze data. This process involve several stages, including data cleaning,, data processing and data visualization. 
