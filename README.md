@@ -87,7 +87,7 @@ An interactive **Sales Dashboard** built using **Microsoft Excel** to analyze sa
 
 **Swati Shinde**
 
-- GitHub: https://github.com/your-username
+- GitHub: https://github.com/swatis16cpu
 - LinkedIn: https://linkedin.com/in/your-profile
 
 ---
